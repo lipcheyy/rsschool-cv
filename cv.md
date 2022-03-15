@@ -66,7 +66,6 @@ int main()
 }
 
 ```
-
 ## Education
 
 I took courses in various programming languages, including basic concepts of C ++, 
