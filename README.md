@@ -1,1 +1,1 @@
-# rsschool-cv
+https://lipcheyy.github.io/rsschool-cv/
