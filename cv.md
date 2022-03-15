@@ -39,6 +39,7 @@ For each value of **n**, print on a separate line the number of ways n businessm
 
 ### Solution
 
+
 ```
 
 #include<iostream>
